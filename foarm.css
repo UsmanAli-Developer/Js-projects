@@ -1,0 +1,10 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:'Times New Roman', Times, serif ;
+    color: white;
+}
+.container{
+   
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 30%, rgba(83, 198, 237, 1) 100%);
+} 
